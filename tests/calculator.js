@@ -50,7 +50,7 @@ describe('demo calculator tests', function () {
 
 
 
-        browser.sleep(2000)
+        browser.sleep(3000)
 
     });
 
